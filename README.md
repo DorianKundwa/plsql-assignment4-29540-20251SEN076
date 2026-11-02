@@ -11,8 +11,8 @@
 
 | Student Full Name | Student ID | Class Group |
 | :--- | :--- | :--- |
-| **Turashimye Kundwa Dorian** | 29540 | Group D |
-| **Sugira Armel Davy** | 20251SEN076 | Group D |
+| **Turashimye Kundwa Dorian** | 29540 | Group B |
+| **Sugira Armel Davy** | 20251SEN076 | Group B |
 
 ---
 
